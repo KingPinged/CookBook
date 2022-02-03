@@ -1,0 +1,3 @@
+rgba(83, 80, 80, 0.5)
+
+/* parameter 4 is transparency that doesn't affect children elements */
